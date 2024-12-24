@@ -1,5 +1,8 @@
 # Bone Fracture Detection
 
+## Introduction 
+Bone fracture classification through X-ray has traditionally relied on human diagnostics, which can sometimes be flawed. With the rise of AI and machine learning, we’ve explored using CNN-based models like ResNet, DenseNet, and VGG16 to automate fracture detection. Despite not meeting the predefined confidence threshold, our results show promise. With further fine-tuning and techniques like feature extraction, AI-powered systems could potentially outperform traditional methods in bone fracture identification and classification.
+
 This repository contains a bone fracture detection project implemented using **CNN**, **ResNet**, and **YOLO** models. The dataset is sourced from [Kaggle](https://www.kaggle.com/datasets/pkdarabi/bone-fracture-detection-computer-vision-project).
 
 ---
