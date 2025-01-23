@@ -93,8 +93,6 @@ Performance graphs and detailed reports are available in the `results/` and `gra
 
 ```plaintext
 Bone-Fracture-Detection/
-├── dataset/
-│   └── [X-ray images dataset]
 ├── models/
 │   ├── cnn_model.py
 │   ├── resnet_model.py
