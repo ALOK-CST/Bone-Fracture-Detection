@@ -93,17 +93,14 @@ Performance graphs and detailed reports are available in the `results/` and `gra
 
 ```plaintext
 Bone-Fracture-Detection/
+
+├── graphs/
+│   ├── epochs_vs_accuracy.png
+│   └── confusion_matrices/
 ├── models/
 │   ├── cnn_model.py
 │   ├── resnet_model.py
 │   ├── yolo_model.py
-├── results/
-│   ├── cnn_results.csv
-│   ├── resnet_results.csv
-│   ├── yolo_results.json
-├── graphs/
-│   ├── epochs_vs_accuracy.png
-│   └── confusion_matrices/
 ├── main.py
 ├── requirements.txt
 ├── README.md
